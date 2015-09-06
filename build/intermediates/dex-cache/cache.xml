@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Rob\AndroidStudioProjects\MealShare2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="C:\Users\Rob\AndroidStudioProjects\MealShare2\app\build\intermediates\pre-dexed\release\classes-09e951a8b9437f354291aa59a0ef2e25efed420e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rob\AndroidStudioProjects\MealShare2\app\build\intermediates\exploded-aar\com.github.tosslife\pullloadview\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d26400d03586ce8456cc1590ef506c0b3f1a8408">
+        <dex dex="C:\Users\Rob\AndroidStudioProjects\MealShare2\app\build\intermediates\pre-dexed\release\classes-684f4dbe38b2dd2a114f224a753dc2d2bfba91c9.jar" />
+    </item>
+
+</items>

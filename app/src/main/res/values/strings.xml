@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Meal Share</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_tabbed">Tabbed</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_activity_submit">submitActivity</string>
+
+    <string-array name="Category">
+        <item>Swipe (Meal points)</item>
+        <item>Unprepared</item>
+        <item>Ready-to-eat</item>
+    </string-array>
+</resources>
